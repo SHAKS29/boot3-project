@@ -31,7 +31,13 @@
 }
 
 @media(max-width:575.90px){
-    
+    .overlay h3 {
+        margin-top: 20px;
+    }
+    .overlay p {
+        margin-top: 2px;
+        font-size: 10px;
+    }
 
    
     .section_heading p {
